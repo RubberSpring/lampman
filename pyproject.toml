@@ -1,6 +1,6 @@
 [project]
 name = "lampman"
-version = "0.1.0"
+version = "1.0.0"
 description = "MathLamp version manager"
 authors = [
     {name = "RubberSpring",email = "143825964+rafablog77@users.noreply.github.com"}
